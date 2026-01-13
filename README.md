@@ -195,6 +195,7 @@ LIMIT 10;
 - Tableau is paired with Python significantly more often than Power BI (approx. 23k vs 15k). This might indicate that certain industries favoring Tableau also favor Python.
 
 ![Top Demanded Skills for Data Analysts](images/question_4.png)
+
 *Chart 2: Top Skills Paired with Python*
 
 ### **5. Hiring Patterns by Month**
@@ -251,5 +252,6 @@ ORDER BY
 - SQL is the foundation to get into the Data Analysts field. Combining it with other tools like a visualization tool and Python really makes a great combo and potential growth in this industry.
 - Since the data is from 2023 is difficult to tell if AI tools are affecting this trend. Although some sources on the internet say that probably it'll affect entry level jobs.
 - Data Analyst has a great field for expansion. Tools like Python can also be used in other fields like Machina Learning and AI. Providing the user of these skills several fields to work.
+
 
 
